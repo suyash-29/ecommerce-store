@@ -2,7 +2,7 @@
 
 import { Product } from "@/types";
 import Currency from "./ui/currency";
-import Button from "./ui/Button";
+import Button from "./ui/button";
 import { ShoppingCart } from "lucide-react";
 import { MouseEventHandler } from "react";
 
