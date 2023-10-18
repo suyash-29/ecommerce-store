@@ -44,18 +44,23 @@ Before running the project, make sure you have Next.js and npm (Node Package Man
    ```bash
    git clone https://github.com/suyash-29/ecommerce-dashboard
    ```
+3. Run dashboard before store(see how in in dashbord readme) 
 
-3. Navigate to the project directory:
+4. Navigate to the project directory:
    ```bash
    cd ecommerce-store
    ```
-
-4. Install the project dependencies:
+5. Setup Environement variables
+   ```bash
+   NEXT_PUBLIC_API_URL=(dashbord URL)
+   ```
+   
+6. Install the project dependencies:
    ```bash
    npm install
    ```
 
-5. Start the development server:
+7. Start the development server:
    ```bash
    npm run dev
    ```
