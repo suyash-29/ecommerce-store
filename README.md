@@ -1,5 +1,4 @@
-# E-Commerce Store Website README
-
+# E-Commerce Store 
 
 Welcome to the README for your E-Commerce Store Website built using React.js and Next.js, featuring Stripe payment integration. The store is managed via a separate dashboard, which can be found in another repository on your GitHub.
 
@@ -15,7 +14,7 @@ Visit our E-Commerce Store at [Store-link](https://ecommerce-store-alpha-hazel.v
 5. [Usage](#usage)
 6. [Stripe Payment Integration](#stripe-payment-integration)
 7. [Dashboard](#dashboard)
-8. [Thank You](#Thank You)
+8. [Thank You](#Thank-You)
 
 ## Overview
 
