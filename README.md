@@ -4,7 +4,7 @@
 Welcome to the README for your E-Commerce Store Website built using React.js and Next.js, featuring Stripe payment integration. The store is managed via a separate dashboard, which can be found in another repository on your GitHub.
 
 ## Deployed Website
-Visit our E-Commerce Store at [your-deployed-link-here](https://ecommerce-store-alpha-hazel.vercel.app/).
+Visit our E-Commerce Store at [Store-link](https://ecommerce-store-alpha-hazel.vercel.app/).
 
 ## Table of Contents
 
