@@ -81,6 +81,6 @@ The store's products, orders, and other settings are managed through a separate 
 
 ## Thank you
 
-Thank you for choosing our E-Commerce Store Website template. If you have any questions or need further assistance, please don't hesitate to contact us.
+Thank you for choosing our E-Commerce Store Website template. If you have any questions or need further assistance, please don't hesitate to contact me( email: suyash290403@gmail.com).
 
 Happy Selling! 🛒🚀
